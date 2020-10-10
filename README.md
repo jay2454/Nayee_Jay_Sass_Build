@@ -1,9 +1,8 @@
 # SASS BUILD
 
 ### Getting Started
-In this project we will convert css into sass build.
-First compile your sass file into a css file.
-Second start your work on sass file and it will compile everything in css automatic.
+In this project we will rewrite some of the css into sass build.
+By using the supplied css file we will breakdown and move parts into modular sass build.
 
 ### Prerequisites
 Just an editor and Git!
