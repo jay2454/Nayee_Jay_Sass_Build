@@ -1,8 +1,9 @@
-# Nayee_Jay_Sass_Build
+# SASS BUILD
 
 ### Getting Started
-This Website is created by HTML/CSS with photoshop and AI designs.
-
+In this project we will convert css into sass build.
+First compile your sass file into a css file.
+Second start your work on sass file and it will compile everything in css automatic.
 
 ### Prerequisites
 Just an editor and Git!
