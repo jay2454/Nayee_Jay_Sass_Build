@@ -1,8 +1,8 @@
 # SASS BUILD
 
 ### Getting Started
-In this project we will rewrite some of the css into sass build.
-By using the supplied css file we will breakdown and move parts into modular sass build.
+In this project we will rewrite some of the CSS into SASS build.
+By using the supplied CSS file we will breakdown and move parts into modular SASS build.
 
 ### Prerequisites
 Just an editor and Git!
